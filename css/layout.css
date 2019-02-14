@@ -39,6 +39,9 @@ header {
    text-align: center;
    overflow: hidden;
 }
+.specialGit{
+  font-size: 30px
+}
 
 /* vertically center banner section */
 header:before {
@@ -261,7 +264,7 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work, .skills{
+.projects, .work, .skills{
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -284,7 +287,10 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
+.contact-spec{
+  font-size: 20px;
+  color: white;
+}
 .bars {
 	width: 95%;
 	float: left;
