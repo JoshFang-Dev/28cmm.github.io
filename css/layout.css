@@ -40,7 +40,11 @@ header {
    overflow: hidden;
 }
 .specialGit{
-  font-size: 30px
+  font-size: 30px;
+}
+
+.gg{
+  color: gray;
 }
 
 /* vertically center banner section */
